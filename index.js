@@ -13,7 +13,7 @@ function increaseRankBy(n){
 
   for (let i = 0; i < rank.length; i++){
     let current = rank[i].innerHTML
-    console.log current
+    console.log (current)
     //= (i + 1).toString()
   }
   //return rank;
